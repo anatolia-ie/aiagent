@@ -1,0 +1,21 @@
+{
+  "name": "raia-chatbot",
+  "version": "1.0.0",
+  "description": "AI-powered chatbot page with React",
+  "main": "click_ai_agent.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step needed - static HTML/JS files'"
+  },
+  "keywords": [
+    "react",
+    "chatbot",
+    "ai",
+    "raia"
+  ],
+  "author": "Unal Erbayraktar",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
